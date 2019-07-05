@@ -1,0 +1,13 @@
+.chart-title {
+    -fx-text-fill: blue;
+    -fx-font-size: 1.6em;
+}
+
+.button {
+    -fx-text-fill: black;
+}
+
+GridPane{
+    -fx-background-color:  #f0f7ff;
+}
+
